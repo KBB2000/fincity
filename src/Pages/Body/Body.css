@@ -1,0 +1,168 @@
+.col-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1440px;
+    gap: 80px;
+}
+.descriptiuon{
+    width: 486px;
+    height: 369px;
+    gap: 32px;
+}
+.heading{
+   
+}
+.para{
+    color: yellow;
+}
+.para2{
+    Width:486px; 
+    Height:53px;
+}
+.image{
+    width: 400px;
+    height: 380px;
+    left: 720px;
+    border-radius: 10px;
+}
+imagePara{
+    display: flex;
+    width: 720px;
+    height: 629px;
+    left: 720px;
+}
+.buttons{
+    width: Hug (244px);
+    height: Hug (43px);
+    gap: 12px;
+    display: flex;
+}
+.button1{
+    width: 67px;
+    height: 27px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #25282B;
+    background: #FDC435;
+}
+.button2{
+    width: 67px;
+    height: 27px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #25282B;
+    background: #f5f0e4;
+}
+.head{
+   
+font-family: Playfair Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.form{
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+input{
+    width: 400px;
+height: 40px;
+border-radius: 8px;
+border: 1px;
+
+}
+.textatea{
+    width: 400px;
+height: 160px;
+border-radius: 8px;
+border: 1px;
+
+}
+.textButton{
+    width: Hug (81px);
+    height: Hug (43px);
+    padding: 8px, 24px, 8px, 24px;
+    border-radius: 8px;
+    background: #FDC435;
+    text-align: right;
+}
+.minilogo{
+    width: 70px;
+    border-radius: 50%;
+    height: 80px;
+    top: -939px;
+    left: 2844px;
+}
+.shadow{
+    width: 1436px;
+    height: 111.89px;
+    top: 644px;
+    background: #FDC435;
+    margin: 10px;
+}
+.button3{
+    padding: 12px;
+    width: Fixed (992px);
+    height: Fixed (550px);
+    border-radius: 24px;
+    background: #fcfdff;
+    border: 1px solid #25282B
+}
+.br{
+    width: Hug (992px);
+height: Hug (1,892px);
+top: 1634px;
+left: 226px;
+gap: 80px;
+}
+.icon{
+    width: Hug (275px);
+height: Hug (102px);
+top: 2817px;
+left: 600px;
+gap: 32px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+    
+.icon img{
+    display: flex;
+    justify-content: center;
+   padding: 5px;
+
+}
+.img1{
+    width: 70px;
+    height: 70px;
+    top: 2817px;
+    left: 600px;
+    gap: 32px;
+}
+.copy{
+    text-align: center;
+}
