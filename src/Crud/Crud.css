@@ -1,0 +1,71 @@
+.containerr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    border: 2px solid grey;
+}
+.toolbar{
+    justify-content: flex-end;
+}
+span{
+    border: none;
+    padding: 5px;
+    background: red;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding-left: 10px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+thead tr th{
+    border: 1px solid red;
+    padding: 5px ;
+    background-color: aqua;
+    color: red;
+    border-radius: 3px;
+}
+tbody tr td{
+    border: 1px solid red;
+    padding: 13px;
+}
+.add{
+    padding: 6px;
+    padding-right: 5px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: rgb(219, 246, 12);
+    color: red;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    padding: 3px;
+    font-size: 18px;
+    font-weight: 500;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+textarea{
+    border-radius: 5px;
+    border: none;
+}
+h2{
+    text-align: center;
+}
+.btns{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 10px;
+}
