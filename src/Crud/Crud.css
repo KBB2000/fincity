@@ -39,7 +39,7 @@ tbody tr td{
     font-weight: bold;
     border-radius: 5px;
     background-color: rgb(219, 246, 12);
-    color: red;
+    color: rgb(245, 11, 11);
 }
 .form{
     display: flex;
