@@ -101,9 +101,7 @@ const Crud = () => {
             </tr>
                 )
             })}
-            
-            
-           </tbody>
+            </tbody>
        </table>
        <Modal open={open} onClose={onCloseModal} center>
         <h2>{action} User</h2>
